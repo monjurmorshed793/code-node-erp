@@ -1,0 +1,6 @@
+[submodule "web-app"]
+	path = web-app
+	url = https://github.com/monjurmorshed793/web-app.git
+[submodule "hr-service"]
+	path = hr-service
+	url = https://github.com/monjurmorshed793/hr-service.git
